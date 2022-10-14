@@ -1,6 +1,6 @@
 import './App.css';
 import { useState, useEffect} from "react"
-import { Nota } from './components/Nota.js';
+import { Nota } from './components/Nota.jsx';
 
 function App() {
   const [paises, SetPaises] = useState([])

@@ -29,7 +29,7 @@ nav h1 {
 .app__ul {
   list-style: none;
   text-decoration: none;
-  border: 1px rgb(0, 0, 0) solid;
+  border: 2.5px rgb(0, 0, 0) solid;
   width: 250px;
   height: 100%;
   margin: auto;
