@@ -1,3 +1,9 @@
+### Proyecto terminado con React, aplicando todos lo conocimientos aprendidos hasta el momento.
+
+Funcionalidad: Filtro de Busqueda por Nombre de Pais, Por Continente o Region y por Poblacion
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
