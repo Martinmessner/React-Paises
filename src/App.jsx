@@ -7,6 +7,10 @@ function App() {
   const [filtro, Setfiltro] = useState("")
   const [loading, Setloading] = useState(false)
 
+
+  // https://restcountries.com/v2/all   ordenados alfabeticamente
+  // https://restcountries.com/v3.1/all
+  
 const callAPI = () => {
   Setloading(true)
   fetch("https://restcountries.com/v3.1/all")
